@@ -9,3 +9,8 @@
 Zentral für SOC, CERT, IT-Forensik und Incident Response.
 
 ## Link
+AD-Analyse/
+Sysmon/
+IOC-Scanner/
+Malware-Sandbox/
+IR-Training/

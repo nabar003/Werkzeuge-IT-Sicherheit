@@ -38,21 +38,14 @@ Dateien und URLs analysieren
 [haveipeenpwdned](https://haveibeenpwned.com/)  
 [Netzbeweis](https://www.netzbeweis.com)  
 
-Partner für IT Forensik  
-[MH-Service](https://www.mh-service.de/de)  
-
 Reporting   
 [DFIR Reports](https://www.forensicfocus.com/articles/writing-dfir-reports-a-primer/)  
 
 Qualifizierte APT Response Dienstleister  
 [APT Reponse Dienstleiter](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/Dienstleister_APT-Response-Liste.pdf?__blob=publicationFile&v=12)  
 
-Videos  
-[Warriors of the net (German)](https://www.youtube.com/watch?v=4VxPazlA0Zc)  
 
-Bücher  
-[The Art of Memory Forensics](https://www.wiley.com/en-us/The+Art+of+Memory+Forensics:+Detecting+Malware+and+Threats+in+Windows,+Linux,+and+Mac+Memory-p-9781118825099)  
-[How to Hack Like a Ghost](https://nostarch.com/how-hack-ghost)  
+
 
 Definitionen   
 [ISO Online Browsing Platform](https://www.iso.org/obp/ui/#iso:std:iso-iec:27000:ed-5:v1:en)
