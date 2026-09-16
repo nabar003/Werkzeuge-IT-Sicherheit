@@ -9,3 +9,7 @@
 Wichtig für SOC-Betrieb, Monitoring und Incident Detection.
 
 ## Inhalt
+Elastic-OpenSearch  
+Wazuh  
+Schwachstellenscanner  
+OT-Security

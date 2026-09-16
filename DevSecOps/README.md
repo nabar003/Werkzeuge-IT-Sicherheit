@@ -10,3 +10,5 @@ Integration von Sicherheit in Entwicklungs- und Betriebsprozesse.
 Wichtig für Softwareentwicklung und CI/CD-Pipelines.
 
 ## Inhalt
+
+Codeanalyse-SonarQube

@@ -8,3 +8,5 @@
 Grundlagen für DFIR und IT-Sicherheit.
 
 ## Inhalt
+EML  
+Abuse-Meldungen

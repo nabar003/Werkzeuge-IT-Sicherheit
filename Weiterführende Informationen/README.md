@@ -8,3 +8,6 @@
 Ergänzend.
 
 ## Inhalt
+Aservate-Zahlen  
+Zitate  
+Datenanalyse-Beispiele/
