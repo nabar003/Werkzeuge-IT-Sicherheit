@@ -1,4 +1,15 @@
-### Inhalt
+## Werkzeuge zur Analyse von Dateien, URLs, Webseiten und kompromittierten Accounts. Die Tools unterstützen Incident Response, OSINT und digitale Forensik.
+
+## Lernziele
+- Analyse verdächtiger Dateien und URLs
+- Erkennen kompromittierter Accounts
+- Nutzung rechtssicherer Beweissicherungswerkzeuge
+- Bewertung von Webseitenverfügbarkeit und technischen Fehlern
+
+## Relevanz
+Zentral für Incident Response, OSINT und digitale Forensik.
+
+## Inhalt
 Virustotal
 🔗 https://www.virustotal.com/gui/home/upload  
 Wofür: Datei‑ & URL‑Analyse, Malware‑Erkennung.
