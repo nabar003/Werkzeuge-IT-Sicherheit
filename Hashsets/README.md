@@ -13,7 +13,6 @@ Pflicht für professionelle Datenträger-Forensik, Standard in DFIR-Labs und Erm
 
 ## Inhalt
 
-RDS Hashsets (NSRL)
-🔗 https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/nsrl-download/current-rds  
-Wofür: Referenzdatenbank bekannter Dateien für Forensik.  
+[RDS Hashsets (NSRL)](https://www.nist.gov/itl/csd/secure-systems-and-applications/national-software-reference-library-nsrl/nsrl-download-0)   
+Wofür:  Nattional Software Reference Library (NSRL). Referenzdatenbank bekannter Dateien für Forensik.  
 Relevanz: Pflicht für Datenträger‑Forensik.

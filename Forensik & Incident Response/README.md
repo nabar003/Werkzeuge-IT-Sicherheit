@@ -109,3 +109,24 @@ Relevanz: Sehr gut für Studierende und Labs.
 [DFIR Reports](https://www.forensicfocus.com/articles/writing-dfir-reports-a-primer/)  
 Wofür: Strukturierte DFIR‑Berichte, Dokumentation.  
 Relevanz: Pflicht für Incident Response.
+
+### 12. Email-Forensik
+
+#### EML‑Datei  / E‑Mail‑Dateiformat  
+[RFC 822 (Definition) ](https://datatracker.ietf.org/doc/html/rfc822)  
+Wofür: Forensik & Analyse von E‑Mails, Headern, MIME‑Strukturen, Anhängen.  
+Relevanz: Pflicht — Standardformat für gerichtsfeste E‑Mail‑Analyse.
+
+
+#### Abuse-Meldungen 
+[Allestörungen - Echtzeit](https://xn--allestrungen-9ib.de/?utm_source=copilot.com)   
+[RIPE Abuse‑Kontakt](https://apps.db.ripe.net/db-web-ui/query)  
+[AbuseIP-Datenbank](https://www.abuseipdb.com/?utm_source=copilot.com)  
+Wofür: Meldung von Vorfällen, Spam, Phishing, kompromittierten Systemen, Netzmissbrauch.   
+Relevanz: Praxis — wichtig für Incident Response & Provider‑Kontakt.
+
+### 13. Arbeitsgruppen
+
+[APWG](https://apwg.org/)  
+Wofür: APWG ist eine globale Threat‑Intelligence‑Organisation
+Sie liefert Phishing‑Statistiken, Feeds, Reports
